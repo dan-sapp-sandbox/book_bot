@@ -1,3 +1,3 @@
 # book_bot
 
-BookBot is my first project!
+Analyzes text of books for word and letter count.
